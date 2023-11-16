@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "apollo": "^2.34.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "nvm": "^0.0.4"
+  }
+}
